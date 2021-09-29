@@ -5,5 +5,5 @@ A installer package like XAMPP is required and also an internet connection is re
 ##Run
 Run index.php file in your local server and create your resume by a very simple procedure.
 
-To run in browser use following link:
- http://localhost/Resume_Generator/Resume_Generator/
+To run in browser:
+ Type "localhost/" followed by the folder name 
